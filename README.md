@@ -35,7 +35,7 @@ Este projeto utiliza as bibliotecas `numpy`, `sympy` e `tkinter`. Você pode ins
 Para instalar `numpy` e `sympy`, execute:
 
 ```bash
-pip install numpy sympy
+pip install -r requirements.txt
 ```
 
 ### 4. Executar o Programa
